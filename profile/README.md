@@ -2,11 +2,7 @@ Est. 2019 [at UW Seattle](https://huskylink.washington.edu/organization/appdev) 
 
 ## Upcoming Events
 
-- Student Activities Fair: Sep 30, 8 AM - 2 PM on Red Square
-- Info Session: Oct 4, 4 PM - 5 PM PDT at Huksy Union Building Room 340
-
-![flyer for the above info](https://user-images.githubusercontent.com/10842684/134971732-db7d0e77-f683-4cdc-a095-3785948cd24d.png)
-
+- Info Session: Oct 4, 4 PM - 5 PM PDT at Huksy Union Building Room 214
 
 <!--
 
