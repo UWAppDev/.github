@@ -2,7 +2,9 @@ Est. 2019 [at UW Seattle](https://huskylink.washington.edu/organization/appdev) 
 
 ## Upcoming Events
 
-- ~~[PacktoberRest](https://uwapp.dev/PacktoberRest): Oct 9, 2 PM - 4 PM PDT at Huksy Union Building Room 340~~
+- Weekly work/play hours on Saturdays from 4PM - 6PM
+  - In Sieg 332 for Oct. 16, 2021
+  - In Husky Union Building for other ones
 - _More events coming soon!_
 
 <!--
