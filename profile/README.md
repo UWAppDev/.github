@@ -3,8 +3,7 @@ Est. 2019 [at UW Seattle](https://huskylink.washington.edu/organization/appdev) 
 ## Upcoming Events
 
 - Weekly work/play hours on Saturdays from 4PM - 6PM
-  - In Sieg 332 for Oct. 16, 2021
-  - In Husky Union Building for other ones
+  - In Husky Union Building
 - _More events coming soon!_
 
 <!--
