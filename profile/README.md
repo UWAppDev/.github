@@ -3,7 +3,7 @@ Est. 2019 [at UW Seattle](https://huskylink.washington.edu/organization/appdev) 
 ## Upcoming Events
 
 - Weekly work/play hours on Saturdays from 4PM - 6PM
-  - In Husky Union Building
+  - In Husky Union Building room 337
 - _More events coming soon!_
 
 <!--
